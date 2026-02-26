@@ -1,5 +1,3 @@
-# Lab13_Holostikh
-Checking a HASH for a virus via API
 # VirusTotal API Client
 
 Простой Python‑скрипт для получения статуса сканирования файла через VirusTotal API по его хешу (MD5/SHA1/SHA256).
