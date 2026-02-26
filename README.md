@@ -127,4 +127,5 @@ requests>=2.25.0
    ```bash
    git clone <URL-репозитория>
 
-   cd virustotal-api-client<img width="515" height="266" alt="2026-02-27_02-47-09" src="https://github.com/user-attachments/assets/f5ddd06f-66de-4056-a8a6-981f16cfb4c0" />
+   
+
